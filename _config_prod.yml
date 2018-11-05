@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: U.K. Indicators For The Sustainable Development Goals
+title: [YOUR COUNTRY] Indicators For The Sustainable Development Goals
 description: Data Platform Prototype
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
@@ -51,8 +51,8 @@ exclude: [vendor, scripts, remotedata]
 # International Support
 # Eg name: Australia and adjective: Australian
 country:
-  name: UK
-  adjective: UK
+  name: [YOUR COUNTRY]
+  adjective: [YOUR COUNTRY]
 
 # Pages
 collections:
