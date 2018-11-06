@@ -32,9 +32,9 @@ analytics:
 
 ###################################################################################################
 email_contacts:
-  questions: sustainabledevelopment@ons.gov.uk
-  suggestions: sustainabledevelopment@ons.gov.uk
-  functional: sustainabledevelopment@ons.gov.uk
+  questions: sustainabledevelopment@ons.gov.yourcountry
+  suggestions: sustainabledevelopment@ons.gov.yourcountry
+  functional: sustainabledevelopment@ons.gov.yourcountry
 ###################################################################################################
 
 # Github Repo for Data
